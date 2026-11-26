@@ -1,7 +1,6 @@
 # THE SILENT HEIST — Follow the Money
 
 
-
 ## Tools & Technologies
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -10,16 +9,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Work_In_Progress-F2C811?style=for-the-badge)
 
-### Core Competencies
-
+## Core Competencies
 Financial Modelling | Business Analysis | Risk Analytics |
 Scenario Analysis | Data Visualization | KPI Reporting |
 Investment Analysis
 
-**Development Status:** The interactive Power BI dashboard is currently under development. The Excel dashboard, financial model, synthetic datasets and analytical resources are available in this repository.
+## Development Status
+The interactive Power BI dashboard is currently under development. 
+The Excel dashboard, financial model, synthetic datasets and analytical resources are available in this repository.
 
-
-**Canadian banking financial crime analytics | Fictional Northstar Bank | Jan–Jun 2026**
+## Project Overview
+**Canadian Banking Financial Crime Analytics | Fictional Northstar Bank | Jan–Jun 2026**
 
 A simulated bank faces increasing fraud losses. Should it invest CAD $150,000 in prevention technology?
 
