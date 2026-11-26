@@ -1,4 +1,12 @@
 # THE SILENT HEIST — Follow the Money
+![Project Status](https://img.shields.io/badge/Project-In%20Progress-orange)
+![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1)
+![Python](https://img.shields.io/badge/Python-Analytics-3776AB)
+![Excel](https://img.shields.io/badge/Excel-Financial%20Modelling-217346)
+![Power BI](https://img.shields.io/badge/Power%20BI-In%20Development-F2C811)
+
+**Development Status:** The interactive Power BI dashboard is currently under development. The Excel dashboard, financial model, synthetic datasets and analytical resources are available in this repository.
+
 
 **Canadian banking financial crime analytics | Fictional Northstar Bank | Jan–Jun 2026**
 
