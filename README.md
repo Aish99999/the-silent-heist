@@ -1,9 +1,18 @@
 # THE SILENT HEIST — Follow the Money
-![Project Status](https://img.shields.io/badge/Project-In%20Progress-orange)
-![SQL](https://img.shields.io/badge/SQL-Analysis-4479A1)
-![Python](https://img.shields.io/badge/Python-Analytics-3776AB)
-![Excel](https://img.shields.io/badge/Excel-Financial%20Modelling-217346)
-![Power BI](https://img.shields.io/badge/Power%20BI-In%20Development-F2C811)
+
+## Tools & Technologies
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Work_In_Progress-F2C811?style=for-the-badge)
+
+### Core Competencies
+
+Financial Modelling | Business Analysis | Risk Analytics |
+Scenario Analysis | Data Visualization | KPI Reporting |
+Investment Analysis
 
 **Development Status:** The interactive Power BI dashboard is currently under development. The Excel dashboard, financial model, synthetic datasets and analytical resources are available in this repository.
 
