@@ -1,0 +1,3 @@
+# Data dictionary
+Customers: customer_id (unique fictional ID), province (Canadian province).
+Transactions: transaction_id (unique ID), date (ISO calendar date), customer_id (foreign key), channel (Mobile/Online/ATM/Branch), amount_cad (transaction value), confirmed_fraud (0/1 simulated ground truth), fraud_category (None for legitimate transactions), alert_flag (0/1 simulated detection), gross_loss_cad (amount for confirmed fraud, otherwise zero), recovered_cad (simulated recovered amount), net_loss_cad (gross minus recovered). All amounts CAD. One row per transaction; confirmed fraud counts transactions, not distinct people.

@@ -1,0 +1,19 @@
+Transactions = COUNTROWS(Transactions)
+
+Transaction Value = SUM(Transactions[amount_cad])
+
+Confirmed Fraud = SUM(Transactions[confirmed_fraud])
+
+Fraud Rate = DIVIDE([Confirmed Fraud], [Transactions])
+
+Gross Loss = SUM(Transactions[gross_loss_cad])
+
+Recovered = SUM(Transactions[recovered_cad])
+
+Net Loss = SUM(Transactions[net_loss_cad])
+
+Recovery Rate = DIVIDE([Recovered], [Gross Loss])
+
+Alert Recall = DIVIDE(CALCULATE([Confirmed Fraud], Transactions[alert_flag] = 1), [Confirmed Fraud])
+
+Alert Precision = DIVIDE(CALCULATE([Confirmed Fraud], Transactions[alert_flag] = 1), SUM(Transactions[alert_flag]))

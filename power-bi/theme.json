@@ -1,0 +1,12 @@
+{
+  "name": "Silent Heist",
+  "dataColors": [
+    "#6AD6C5",
+    "#F0B46B",
+    "#D77B83",
+    "#8EB5C8"
+  ],
+  "background": "#101C2E",
+  "foreground": "#E7EFF8",
+  "tableAccent": "#6AD6C5"
+}
